@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1510827054 source:/home/neda/Desktop/Lab6ex2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
